@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which algorithm finds the greatest common divisor efficiently?",
+    "options": {
+      "A": "Euclidean algorithm",
+      "B": "Bubble sort",
+      "C": "Linear search",
+      "D": "Fibonacci algorithm"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What is the first value in the standard Fibonacci sequence used here?",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "2",
+      "D": "-1"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which Python collection stores unique elements?",
+    "options": {
+      "A": "List",
+      "B": "Tuple",
+      "C": "Set",
+      "D": "String"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Binary search requires the data to be:",
+    "options": {
+      "A": "Random",
+      "B": "Sorted",
+      "C": "Duplicated",
+      "D": "Empty"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which operation gives the remainder of integer division in Python?",
+    "options": {
+      "A": "//",
+      "B": "**",
+      "C": "%",
+      "D": "/"
+    },
+    "answer": "C"
+  }
+]
